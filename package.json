@@ -1,6 +1,7 @@
 {
   "name": "todo-list-redux",
   "version": "0.1.0",
+  "homepage":"http://gcollova.github.io/todo-list-redux/"
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
